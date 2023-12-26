@@ -1,0 +1,26 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+h1 {
+	text-align: center;
+}
+h1 {
+	font-family: 'Nunito', times;
+	color: white
+}
+p {
+	text-align: center;
+}
+p {
+	font-family: 'Nunito', times;
+}
+div {
+	text-align: center;
+}
+div {
+	font-family: 'Nunito', times;
+}
+body {
+	background-image: url('/BG-Stars.gif');
+}
+img {
+	width: 24%;
+}
