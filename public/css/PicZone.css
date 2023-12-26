@@ -19,7 +19,7 @@ div {
 	font-family: 'Nunito', times;
 }
 body {
-	background-image: url('/BG-Stars.gif');
+	background-image: url('../BG-Stars.gif');
 }
 img {
 	width: 24%;

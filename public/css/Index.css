@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 body {
-  background-image: url('/BG-Stars.gif');
+  background-image: url('../BG-Stars.gif');
 }
 table, th, td {
   border: 0px solid;
@@ -17,6 +17,7 @@ p {text-align: center;}
 p {font-family: 'Nunito', times;}
 div {text-align: center;}
 div {font-family: 'Nunito', times;}
+marquee {font-family: 'Nunito', times;}
 img {
     display: inline-block;
 }
