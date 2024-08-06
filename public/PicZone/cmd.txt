@@ -1,0 +1,2 @@
+//gets all pics and puts them into an html file
+for %i in (*.jpg) do echo ^<img src="%i" /^> >> picsown.html
